@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A simple command-line script to calculate simple interest given the principal amount, annual rate of interest, and time period in years.
+A simple command-line script to calculate simple interest given the principal amount, the annual rate of interest, and time period in years.
 
 ## Overview
 This calculator computes simple interest based on the standard financial formula:
