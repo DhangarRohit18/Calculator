@@ -1,0 +1,5 @@
+total 58
+-rw-r--r-- 1 user user 25319 Mar 18 18:27 document1.txt
+-rw-r--r-- 1 user user 12261 Mar 18 18:27 document2.txt
+-rw-r--r-- 1 user user  8618 Mar 18 18:57 backup-1773840456.tar.gz
+-rwxr-xr-x 1 user user  1092 Mar 18 18:42 backup.sh
